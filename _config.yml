@@ -17,7 +17,8 @@
 # Setup
 title:               Kirti Vardhan Rathore
 tagline:             Software Engineer
-url:                 http://krathore.me
+url:                 https://modulo-testuser.github.io
+baseurl:              ""
 
 #Build Settings
 markdown: kramdown
@@ -39,7 +40,7 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/kirtivr/kirtivr.github.io
+  repo:              https://github.com/modulo-testuser/modulo-testuser.github.io
 twitter:             kirtivr
 github:              kirtivr
 
@@ -50,4 +51,3 @@ paginate: 5
 plugins:
   - jekyll-paginate
   - jekyll-gist
-
