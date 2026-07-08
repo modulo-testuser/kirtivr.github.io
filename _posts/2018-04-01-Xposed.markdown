@@ -1,8 +1,8 @@
 ---
---- 
 layout: post
 title: An exploration into how Xposed hooks into ART
+date: 2018-04-01
 description: "This blog post delves into the technical details of how the Xposed framework integrates and hooks into the Android Runtime (ART), explaining the mechanisms for runtime modifications and app behavior interception."
---- 
+---
 
 Check it out [here](https://binderfilter.github.io/xposed/)
